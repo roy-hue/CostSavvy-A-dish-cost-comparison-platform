@@ -68,14 +68,21 @@ Stripe customer ID linking
 
 Data Entities
 
-Dish - Core dishes with pricing, difficulty, prep time
-Ingredient - Linked ingredients with quantities and prices
-Subscription - User tier, status, execution rights, capacity limits
-CustomerIdentity - Immutable customer identity with Stripe linking
-AddonPurchase - Individual addon purchases
-UserPreference - User settings, favorites, dietary restrictions
-MealPlan - Weekly meal schedules with cost tracking
-PriceCorrection - User-submitted price corrections with photos
+1. Dish - Core dishes with pricing, difficulty, prep time
+   
+2. Ingredient - Linked ingredients with quantities and prices
+   
+3. Subscription - User tier, status, execution rights, capacity limits
+   
+4. CustomerIdentity - Immutable customer identity with Stripe linking
+   
+5. AddonPurchase - Individual addon purchases
+    
+6. UserPreference - User settings, favorites, dietary restrictions
+    
+7. MealPlan - Weekly meal schedules with cost tracking
+    
+8. PriceCorrection - User-submitted price corrections with photos
 
 Payment Integration
 
@@ -86,24 +93,27 @@ Revenue tracking and customer management
 
 Admin Features
 
-Price correction review dashboard
-Approve/reject submissions with photos
-Admin notes and audit trail
-Automatic dish price updates
+1. Price correction review dashboard
+
+2. Approve/reject submissions with photos
+   
+3. Admin notes and audit trail
+   
+4. Automatic dish price updates
 
 User Journey
 
-Browse → View limited dishes (8 for free)
+1. Browse → View limited dishes (8 for free)
 
-Compare → See detailed cost breakdowns
+2. Compare → See detailed cost breakdowns
 
-Report → Submit price corrections with photos
+3. Report → Submit price corrections with photos
 
-Plan → Create weekly meal plans
+4. Plan → Create weekly meal plans
 
-Shop → Generate ingredient shopping lists
+5. Shop → Generate ingredient shopping lists
 
-Upgrade → Unlock premium features and add-ons
+6. Upgrade → Unlock premium features and add-ons
 
 Growth Phases
 

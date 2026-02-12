@@ -1,4 +1,5 @@
 Key Features
+
 1. Dish Comparison System
 Browse 400+ dishes across 7 cuisine categories (Italian, Mexican, Asian, American, Mediterranean, Indian, Other)
 View restaurant prices, delivery fees, and homemade costs
@@ -84,6 +85,7 @@ Admin notes and audit trail
 Automatic dish price updates
 
 User Journey
+
 Browse → View limited dishes (8 for free)
 
 Compare → See detailed cost breakdowns
@@ -97,6 +99,7 @@ Shop → Generate ingredient shopping lists
 Upgrade → Unlock premium features and add-ons
 
 Growth Phases
+
 Phase 1 (0-100 customers): Early access, testing
 
 Phase 2 (100-1,000): Growth, feature expansion
@@ -104,6 +107,7 @@ Phase 2 (100-1,000): Growth, feature expansion
 Phase 3 (1,000+): Enterprise, partnerships
 
 Monetization Triggers
+
 Capacity constraints on free tier (8 dishes visible)
 AI features locked behind premium
 History depth limitations (7 days free vs unlimited premium)

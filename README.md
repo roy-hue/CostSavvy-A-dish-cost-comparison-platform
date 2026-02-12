@@ -59,12 +59,15 @@ Location-based pricing (zip code)
 Preferred supermarket chains
 
 Technical Architecture
+
 Authentication & Identity
 Built-in Base44 authentication
 Role-based access (admin/user)
 Immutable CustomerIdentity entity
 Stripe customer ID linking
+
 Data Entities
+
 Dish - Core dishes with pricing, difficulty, prep time
 Ingredient - Linked ingredients with quantities and prices
 Subscription - User tier, status, execution rights, capacity limits
@@ -73,12 +76,16 @@ AddonPurchase - Individual addon purchases
 UserPreference - User settings, favorites, dietary restrictions
 MealPlan - Weekly meal schedules with cost tracking
 PriceCorrection - User-submitted price corrections with photos
+
 Payment Integration
+
 Stripe checkout for subscriptions and add-ons
 Webhook handling for payment events
 Automatic subscription status updates
 Revenue tracking and customer management
+
 Admin Features
+
 Price correction review dashboard
 Approve/reject submissions with photos
 Admin notes and audit trail

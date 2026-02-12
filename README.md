@@ -5,6 +5,7 @@ View restaurant prices, delivery fees, and homemade costs
 Calculate potential savings with detailed breakdowns
 See preparation time, difficulty level, and serving sizes
 Filter by trending dishes, favorites, and categories
+
 2. Monetization Model (Freemium)
 Free Tier:
 Limited to viewing 8 dishes
@@ -25,6 +26,7 @@ AI Meal Planner Pro ($9.99)
 Real-Time Price Tracker ($4.99/mo)
 Custom Recipe Generator ($7.99)
 Smart Store Navigator ($5.99/mo)
+
 3. Price Correction Feature ⭐ Just Implemented
 Users can photo-submit price corrections
 Requires $1+ difference to submit
@@ -32,6 +34,7 @@ Upload menu/receipt photos as evidence
 Admin review and approval workflow
 Automatic dish price updates upon approval
 Track corrections by status (pending/approved/rejected)
+
 4. Meal Planning
 Weekly meal plan generation
 Budget tracking with visual progress bars
@@ -39,12 +42,14 @@ Food waste reduction tips
 Eco-impact calculations
 Drag-and-drop meal organization
 Premium: AI-powered meal plan generation
+
 5. Shopping Lists
 Auto-generated ingredient lists by dish
 Organized by category (Produce, Dairy, Meat, etc.)
 Estimated supermarket pricing
 Optional ingredients marked
 Export capabilities (Premium)
+
 6. User Preferences
 Save favorite dishes (5 max free, unlimited premium)
 Set dietary restrictions
@@ -80,15 +85,22 @@ Automatic dish price updates
 
 User Journey
 Browse → View limited dishes (8 for free)
+
 Compare → See detailed cost breakdowns
+
 Report → Submit price corrections with photos
+
 Plan → Create weekly meal plans
+
 Shop → Generate ingredient shopping lists
+
 Upgrade → Unlock premium features and add-ons
 
 Growth Phases
 Phase 1 (0-100 customers): Early access, testing
+
 Phase 2 (100-1,000): Growth, feature expansion
+
 Phase 3 (1,000+): Enterprise, partnerships
 
 Monetization Triggers
@@ -97,4 +109,5 @@ AI features locked behind premium
 History depth limitations (7 days free vs unlimited premium)
 Export and automation require premium
 Usage-based feature gating
+
 https://cost-savvy-475e32b2.base44.app
